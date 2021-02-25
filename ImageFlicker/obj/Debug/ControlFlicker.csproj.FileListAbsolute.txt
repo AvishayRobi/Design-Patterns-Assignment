@@ -1,0 +1,6 @@
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\bin\Debug\ImageFlicker.dll
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\bin\Debug\ImageFlicker.pdb
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\obj\Debug\ControlFlicker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\obj\Debug\ImageFlicker.dll
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\obj\Debug\ImageFlicker.pdb
+C:\Users\USER\source\repos\A21 Ex03 Avishay 206261828 Omer 311601454\ImageFlicker\obj\Debug\ControlFlicker.csprojAssemblyReference.cache
